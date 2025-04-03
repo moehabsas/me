@@ -6,6 +6,7 @@ I'm a passionate full-stack developer specializing in modern web technologies. I
 - TypeSctipt
 - SASS
 - Python
+- TSX
 - C
 - HTML
 - ***More***
