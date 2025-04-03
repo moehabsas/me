@@ -1,7 +1,3 @@
-Here's an improved version of your code with some added emoji to give it more flair:
-
----
-
 # Hi, I'm Mohamed El-Gedawy 👋✨
 
 I'm a passionate full-stack developer specializing in modern web technologies. I love building scalable and efficient applications with a strong focus on performance, security, and best practices. 🚀💻
